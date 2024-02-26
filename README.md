@@ -7,8 +7,7 @@ ShoeShopp is an e-commerce website built using the MERN (MongoDB, Express.js, Re
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
